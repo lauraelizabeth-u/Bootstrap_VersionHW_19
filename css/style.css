@@ -1,16 +1,23 @@
 body {
-    margin: 30px;
+    margin: 0;
+}
+
+h1 {
+    font-family: merriweather, 'Times New Roman', Times, serif;
+}
+h2 {
+    font-family: merriweather, 'Times New Roman', Times, serif;
 }
 
 .my-container {
-    border: 1px solid green;
 }
 
 .my-row {
-    border: 3px solid red;
-    height: 300px;
+    border: 3px solid pink;
+    height: fit-content;
+    padding: 3%;
 }
 
 .my-col {
-    border: 3px dotted blue;
+    border: 3px solid lavender;
 }
