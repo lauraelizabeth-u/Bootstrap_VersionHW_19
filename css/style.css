@@ -9,10 +9,6 @@ h2 {
     font-family: merriweather, 'Times New Roman', Times, serif;
 }
 
-.my-container {
-    
-}
-
 .my-row {
     border: 3px solid pink;
     height: fit-content;
