@@ -1,20 +1,16 @@
-nav {
-    font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
-    font: black;
-    background-color: #EFE3D5;
-}
-.navItem {
-    text-decoration-color: black;
+body {
+    margin: 30px;
 }
 
-h1 {
-    padding: 2%;
-    margin: 5%;
-    font-family: Merriweather , 'Times New Roman', Times, serif;
+.my-container {
+    border: 1px solid green;
 }
-.logo {
-    display: block;
-    align-content: center;
-    justify-content: center;
-    
+
+.my-row {
+    border: 3px solid red;
+    height: 300px;
+}
+
+.my-col {
+    border: 3px dotted blue;
 }
