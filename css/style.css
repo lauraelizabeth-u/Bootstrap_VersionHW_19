@@ -1,5 +1,5 @@
 body {
-    margin: 0;
+    margin: 30px;
 }
 
 h1 {
@@ -10,6 +10,7 @@ h2 {
 }
 
 .my-container {
+    
 }
 
 .my-row {
