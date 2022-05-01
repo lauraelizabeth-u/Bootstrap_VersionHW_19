@@ -21,3 +21,10 @@ h2 {
     display: flex;
     justify-content: center;
 }
+
+.my-row1 {
+    border: 3px solid pink;
+    height: fit-content;
+    padding: 5%;
+    padding-top: 10%;
+}
