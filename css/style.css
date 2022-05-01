@@ -18,4 +18,6 @@ h2 {
 .my-col {
     border: 3px solid lavender;
     padding: 1%;
+    display: flex;
+    justify-content: center;
 }
