@@ -42,3 +42,8 @@ h2 {
 @media all (max-width: 600px) {
 
 }
+
+.container2 {
+    background-color: lavender;
+    padding: 2%;
+}
